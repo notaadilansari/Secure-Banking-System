@@ -284,7 +284,7 @@ int main() {
                     }
                 }
             } else {
-                // CHANGE: Added error message if login fails
+                
                 cout << "Invalid username or password!" << endl << endl;
             }
         }
